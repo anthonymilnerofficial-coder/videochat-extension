@@ -187,6 +187,9 @@ With this extension installed, you can find out where your interlocutors are fro
 * **https://ruletkavideochat.com**
 * **https://turkishvideochat.com**
 
+### Omegle.me (full support):
+* **https://omegle.me**
+
 ### Ome.tv (full support):
 
 * **https://ome.tv**
@@ -281,3 +284,4 @@ In any case, I hope that it will not come to this and video chats will find my i
 so that they will not interfere with a very small percentage of users from using limited extended functionality. I just
 wanted to indicate that there is always a backup plan and if the platform becomes hostile, the user will always stay in
 priority.
+
